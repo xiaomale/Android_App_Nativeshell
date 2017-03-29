@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.829063691/NDKROOT/delimiter=;
+environment/project/com.android.toolchain.gcc.829063691/NDKROOT/operation=replace
+environment/project/com.android.toolchain.gcc.829063691/NDKROOT/value=D\:\\\u8F6F\u4EF6\u5B89\u88C5\\NDK\\android-ndk-r12b
+environment/project/com.android.toolchain.gcc.829063691/append=true
+environment/project/com.android.toolchain.gcc.829063691/appendContributed=true
